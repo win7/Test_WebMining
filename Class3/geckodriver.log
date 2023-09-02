@@ -1,0 +1,68 @@
+1693607522627	geckodriver	INFO	Listening on 127.0.0.1:38173
+1693607523195	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelJbWbw"
+Gtk-Message: 17:32:03.253: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 17:32:03.253: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693608067005	geckodriver	INFO	Listening on 127.0.0.1:34749
+1693608067569	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNxTAXU"
+Gtk-Message: 17:41:07.628: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 17:41:07.629: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693608069906	geckodriver	INFO	Listening on 127.0.0.1:38471
+1693608070473	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCQKS7k"
+Gtk-Message: 17:41:10.533: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 17:41:10.534: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693608101314	geckodriver	INFO	Listening on 127.0.0.1:50187
+1693608101880	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH4JtZo"
+Gtk-Message: 17:41:41.917: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 17:41:41.917: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693617010479	geckodriver	INFO	Listening on 127.0.0.1:36637
+1693617011037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebamRFF"
+Gtk-Message: 20:10:11.091: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:10:11.092: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693617136651	geckodriver	INFO	Listening on 127.0.0.1:38397
+1693617137213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4qFs3V"
+Gtk-Message: 20:12:17.247: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:12:17.247: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693617825324	geckodriver	INFO	Listening on 127.0.0.1:40285
+1693617825887	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHE3DMo"
+Gtk-Message: 20:23:45.926: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:23:45.926: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693617935478	geckodriver	INFO	Listening on 127.0.0.1:58483
+1693617935537	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg8OP1r"
+Gtk-Message: 20:25:35.569: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:25:35.569: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693618079992	geckodriver	INFO	Listening on 127.0.0.1:35819
+1693618080548	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLOA8bz"
+Gtk-Message: 20:28:00.602: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:28:00.602: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693618223686	geckodriver	INFO	Listening on 127.0.0.1:44913
+1693618224243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile555si8"
+Gtk-Message: 20:30:24.299: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:30:24.299: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693618385075	geckodriver	INFO	Listening on 127.0.0.1:60011
+1693618385633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevOSprh"
+*** You are running in headless mode.
+Gtk-Message: 20:33:05.687: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:33:05.687: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693625180420	geckodriver	INFO	Listening on 127.0.0.1:57705
+1693625180979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqWFfg7"
+*** You are running in headless mode.
+Gtk-Message: 22:26:21.032: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 22:26:21.032: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+1693625823189	geckodriver	INFO	Listening on 127.0.0.1:58751
+1693625823753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "36173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRoNC41"
+*** You are running in headless mode.
+Gtk-Message: 22:37:03.784: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 22:37:03.784: Failed to load module "xapp-gtk3-module"
+/usr/lib/firefox/firefox: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
